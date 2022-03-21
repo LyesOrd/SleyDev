@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SleyDev
+- 👋 Hi, I’m @Lyes
 - 👀 I’m interested in Web technologie and Web services
 - 🌱 I’m currently learning Computer science but espacially the web programmation
 - 💞️ I’m looking to collaborate on Web project and Fun project
